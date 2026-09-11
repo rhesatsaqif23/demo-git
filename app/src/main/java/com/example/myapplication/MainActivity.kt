@@ -15,6 +15,6 @@ class MainActivity : AppCompatActivity() {
         setContentView(binding.root)
 
         // TODO: Mahasiswa akan mengubah baris di bawah ini pada Tahap 5.2
-        binding.tvJudul.text = "Selamat Datang di Praktikum PAPB"
+        binding.tvJudul.text = "Profil Developer Mobile - Praktikum Pengembangan Aplikasi Perangkat Bergerak"
     }
 }
